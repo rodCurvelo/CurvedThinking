@@ -1,0 +1,121 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+/**************** INDEX****************/
+/* 
+1 - TEXT
+2 - BUTTONS AND ICONS 
+3 - NAVBAR
+4 - IMAGES 
+5 - BUTTONS AND ICONS 
+6 - MEDIA QUERY
+ */
+
+/* 1 -  **********************************TEXT******************************** */
+
+
+/* 1 - ***********************************TEXT END******************************************/
+
+/* 2 - **********************************BUTTONS AND ICONS******************************** */
+
+
+/* 2 - **********************************BUTTONS AND ICONS END*********************************/
+
+/* 3 - **********************************NAVBAR******************************** */
+
+ /***********************************NAVBAR END******************************** */
+ 
+ /* 4 - **********************************IMAGES*********************************/
+
+/* .coconut {
+  width: 43%;
+} */
+
+.titleStay {
+  background-color: #a36974;
+}
+
+.contactContainer {
+  background-color: #d4ba97;
+}
+
+.blueForm {
+  background-color: #143a51;
+}
+
+.logoImage {
+  width: 100%;
+  padding: 7%;
+}
+
+.card-title {
+  display: block;
+    margin-top: -145%;
+    padding: 27%;
+}
+
+.colCenter {
+  padding: 0px;
+
+}
+
+.containerPrincipal {
+  background-color: #548235;
+}
+
+.greenLogo {
+  padding: 21%;
+  display: block;
+}
+/* .box2b {
+  margin: -5%;
+  height: 81%;
+} */
+
+.teaMug {
+  width: 98%;
+  margin-top: 147%;
+} 
+
+.greenBox {
+  width: 67%;
+}
+
+.box3 {
+  height: 57em;
+  width: 46%;
+  background-color: #548235;
+}
+
+.box2 {
+  height: 57em;
+}
+
+.box1 {
+  height: 57em;
+}
+
+.banana {
+  width: 100%;
+  height: 100%;
+}
+
+ /* 4 - **********************************IMAGES END*********************************/
+ 
+/* 5 - **********************************FOOTER************************************* */
+
+/* 5 - **********************************FOOTER END*********************************/
+ 
+
+
+
+
+
+ /************************* MEDIA QUERYES************************************* */
+
+/*************************MEDIA QUERYES END************************************* */
